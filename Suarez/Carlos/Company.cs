@@ -18,6 +18,6 @@ namespace Carlos
         public void Spend(double save) { _saveproject += save; }
         public void ChangeName(string name) { _name = name; }
 
-}
+    }
 
 }
